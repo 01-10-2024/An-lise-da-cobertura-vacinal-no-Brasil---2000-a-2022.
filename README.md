@@ -55,7 +55,7 @@ Gráficos de barras comparando a cobertura por tipo de vacina e região.
 Mapas temáticos com a distribuição geográfica da cobertura vacinal.
 Relatórios de ANOVA e Tukey identificando diferenças significativas.
 
-CONTROBUIÇÃO
+CONTRIBUIÇÃO
 
 Contribuições são bem-vindas! Se quiser sugerir melhorias ou novas análises, abra uma issue ou envie um pull request.
 
